@@ -1,9 +1,5 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
-# Also provide all the answers to the questions above
-
-Here are detailed answers to the key DevOps interview questions for CLO Virtual Fashion, crafted for an advanced candidate in global infrastructure, Kubernetes, CI/CD, cloud, and collaboration roles[^1][^2][^3].
-
+Here are detailed answers to the key DevOps interview questions for CLO Virtual Fashion, crafted for an advanced candidate in global infrastructure, Kubernetes, CI/CD, cloud, and collaboration roles
 ***
 
 ### Cloud \& Infrastructure Management (Azure, AWS)
